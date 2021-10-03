@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/Array copy/Array/bin/Debug/netcoreapp3.1/Array.deps.json
+/Users/salom11/Desktop/Array copy/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.json
+/Users/salom11/Desktop/Array copy/Array/bin/Debug/netcoreapp3.1/Array.runtimeconfig.dev.json
+/Users/salom11/Desktop/Array copy/Array/bin/Debug/netcoreapp3.1/Array.dll
+/Users/salom11/Desktop/Array copy/Array/bin/Debug/netcoreapp3.1/Array.pdb
+/Users/salom11/Desktop/Array copy/Array/obj/Debug/netcoreapp3.1/Array.csprojAssemblyReference.cache
+/Users/salom11/Desktop/Array copy/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/Array copy/Array/obj/Debug/netcoreapp3.1/Array.AssemblyInfo.cs
+/Users/salom11/Desktop/Array copy/Array/obj/Debug/netcoreapp3.1/Array.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/Array copy/Array/obj/Debug/netcoreapp3.1/Array.dll
+/Users/salom11/Desktop/Array copy/Array/obj/Debug/netcoreapp3.1/Array.pdb
+/Users/salom11/Desktop/Array copy/Array/obj/Debug/netcoreapp3.1/Array.genruntimeconfig.cache
